@@ -1,8 +1,8 @@
-### Hello friend! Patrick here
-I have a large interest in artificial intelligence, GNU/Linux, games, tools and solutions for business and everything related with Java, C and C++ languages.
+![](images/github-profile-description-min.png)
 
-##### What i do?
-I design and develop applications for web and desktop.
-* Desktop applications using Java
-* Web application with PHP and  Wordpress
+#### What i do?
+* Desktop applications using JavaFX
+* Concept, prototype and implement rich user interfaces for web, desktop or mobile devices
+* Design and code relational databases projects to MySQL and PostgreSQL
+* Web frontend using ReactJS and web backend using PHP
 * 2D Games using Godot Engine
