@@ -1,4 +1,4 @@
-![](images/github-cover-min.png)
+![](images/cover.png)
 
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
