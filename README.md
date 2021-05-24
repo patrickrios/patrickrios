@@ -4,7 +4,7 @@
  <br/> :computer: &nbsp; Java & JavaFX Client Developer
  <br/> :ok_hand: &nbsp; Large interest in UI Design & FIGMA
  <br/>  :black_heart: &nbsp; JAVAFX, i really love it, i can help you with it
- <br/> :metal:  &nbsp; Heavy Metal 4 l1f3
+ <br/> :metal:  &nbsp; Heavy Metal 4 life
  <br/><br/>
  ![](https://ik.imagekit.io/lrjseyuxi3m/readme/fa-brands_pied-piper-alt_EJoiY3UnK.png)
  <br/> Follow me, i'm the pied piper
