@@ -1,5 +1,5 @@
 
-<img src="https://ik.imagekit.io/lrjseyuxi3m/MOSHED-2021-5-25-16-57-13_DOhbpIVDe.gif" >
+<img src="https://ik.imagekit.io/lrjseyuxi3m/undraw_developer_activity_bv83_1_zTdv9-PVW.svg" align="right" width="350">
 
  <br/> :computer: &nbsp; Java & JavaFX Client Developer
  <br/> :ok_hand: &nbsp; Large interest in UI Design & FIGMA
