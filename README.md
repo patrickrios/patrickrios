@@ -1,8 +1,6 @@
-![](https://ik.imagekit.io/lrjseyuxi3m/readme/patrickfr_4_Lw-b2ZZ.png)
 
-<video autoplay loop width="200" height="200">
-    <source src="https://ik.imagekit.io/lrjseyuxi3m/glitch-logo_Cw5wt57q8.webm">
-</video>
+<img src="https://ik.imagekit.io/lrjseyuxi3m/MOSHED-2021-5-25-15-40-18_ad4QN73FW.gif" width="200" align="right" style="border-radius:10px">
+
 
  <br/> :computer: &nbsp; Java & JavaFX Client Developer
  <br/> :ok_hand: &nbsp; Large interest in UI Design & FIGMA
