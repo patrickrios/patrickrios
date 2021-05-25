@@ -1,12 +1,14 @@
 ![](https://ik.imagekit.io/lrjseyuxi3m/readme/patrickfr_4_Lw-b2ZZ.png)
 
+<video autoplay loop width="200" height="200">
+    <source src="https://ik.imagekit.io/lrjseyuxi3m/glitch-logo_Cw5wt57q8.webm">
+</video>
 
  <br/> :computer: &nbsp; Java & JavaFX Client Developer
  <br/> :ok_hand: &nbsp; Large interest in UI Design & FIGMA
  <br/>  :black_heart: &nbsp; JAVAFX, i really love it, i can help you with it
  <br/> :metal:  &nbsp; Heavy Metal 4 life
  <br/><br/>
- ![](https://ik.imagekit.io/lrjseyuxi3m/readme/fa-brands_pied-piper-alt_EJoiY3UnK.png)
  <br/> Follow me, i'm the pied piper
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-patrickriosf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickriosf/)](https://www.linkedin.com/in/patrickriosf/) 
