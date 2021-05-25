@@ -1,5 +1,5 @@
 
-<img src="https://ik.imagekit.io/lrjseyuxi3m/MOSHED-2021-5-25-15-40-18_ad4QN73FW.gif" width="200" align="right" style="border-radius:10px">
+<img src="https://ik.imagekit.io/lrjseyuxi3m/logo-dorito-mobile_NPjmQTJb3.png" width="200" align="right">
 
 
  <br/> :computer: &nbsp; Java & JavaFX Client Developer
