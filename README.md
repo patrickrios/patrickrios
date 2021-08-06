@@ -5,7 +5,7 @@
  <br/> :ok_hand: &nbsp; Large interest in UI Design & FIGMA
  <br/>  :black_heart: &nbsp; 2D games with Godot Engine
  <br/>
- <br/>:rocket: &nbsp; Stack
+ <br/>:rocket: &nbsp; **Stack**
  <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=9900EF)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=F78DA7)
- <br/> Follow me, i'm the pied piper
+ <br/><br/> **Follow me, i'm the pied piper**
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-patrickriosf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickriosf/)](https://www.linkedin.com/in/patrickriosf/) 
  [![Outlook Badge](https://img.shields.io/badge/-patrick.33.rios@hotmail.com-0099cc?style=flat-square&logo=MicrosoftOutlookk&logoColor=white&link=mailto:patrick.33.rios@hotmail.com)](mailto:patrick.33.rios@hotmail.com)
