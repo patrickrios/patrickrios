@@ -14,7 +14,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=9900EF)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=F78DA7)
- <br/><br/> **Follow me, i'm the pied piper**
+ <br/> <br/>
+    <a href="https://github.com/patrickrios">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickrios&theme=dracula&show_icons=true" />
+    </a>
+ <br/> <br/>
+ **Follow me, i'm the pied piper**
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-patrickriosf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickriosf/)](https://www.linkedin.com/in/patrickriosf/) 
  [![Outlook Badge](https://img.shields.io/badge/-patrick.33.rios@hotmail.com-0099cc?style=flat-square&logo=MicrosoftOutlookk&logoColor=white&link=mailto:patrick.33.rios@hotmail.com)](mailto:patrick.33.rios@hotmail.com)
