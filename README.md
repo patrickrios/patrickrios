@@ -8,13 +8,13 @@ JavaScript, HTML5, CSS5, React, NextJS, TailwindCSS, NodeJS, Express, TypeORM
 ### Estou aprendendo
 React Native, Testes com JEST
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/patrickrios">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickrios&theme=react&show_icons=true" />
 </a>
 
-<br/><br/>
+<br/>
 
 **Get in touch**
 <br/>
