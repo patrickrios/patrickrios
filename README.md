@@ -19,4 +19,5 @@ React Native, Testes com JEST
 **Get in touch**
 <br/>
 Linkedin: <a href="https://www.linkedin.com/in/patrickriosf/">https://www.linkedin.com/in/patrickriosf/</a>
-Email: <a href="mailto:patrick.33.rios@hotmail.com"></a>
+<br/>
+Email: <a href="mailto:patrick.33.rios@hotmail.com">patrick.33.rios@hotmail.com</a>
