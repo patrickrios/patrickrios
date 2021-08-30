@@ -5,7 +5,7 @@ Desenvolvedor fullstack em formação
 ### Tenho experiência com
 JavaScript, HTML5, CSS5, React, NextJS, TailwindCSS, NodeJS, Express, TypeORM
 
-## Estou aprendendo
+### Estou aprendendo
 React Native, Testes com JEST
 
 <br/><br/>
