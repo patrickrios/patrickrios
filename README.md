@@ -3,7 +3,7 @@
 Desenvolvedor React
 
 ### Tenho experiência com:
-JavaScript, HTML5, CSS3, React, NextJS, TailwindCSS
+JavaScript, HTML5, CSS3, TypeScript, React, NextJS, TailwindCSS
 ### Tenhos boas noções de:
 NodeJS, Express, TypeORM, SQL, MySQL
 ### Estou aprendendo
