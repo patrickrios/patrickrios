@@ -1,7 +1,4 @@
-# 🖖 Hi there
-
 <img src="https://ik.imagekit.io/lrjseyuxi3m/git-profile-min_Qt_mthN-LvLU.png?updatedAt=1632232040293"/>
-<br/>
 <a href="https://patrickrios.github.io/static/media/Patrick-Fernandes-Rios-Curriculo-08-2021.7ac23cb6.pdf">check my cv</a>
 <br/>
 
