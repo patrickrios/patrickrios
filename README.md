@@ -7,13 +7,12 @@ JavaScript, HTML5, CSS3, TypeScript, React, NextJS, TailwindCSS
 ### Tenhos boas noções de:
 NodeJS, Express, TypeORM, SQL, MySQL
 ### Estou aprendendo
-React Native, Testes com JEST
+React Native, Testes com JEST, MongoDB
 
 <br/>
 
-<a href="https://github.com/patrickrios">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickrios&theme=react&show_icons=true" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickrios)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrios&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
