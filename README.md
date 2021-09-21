@@ -1,14 +1,8 @@
 # 🖖 Hi there
 
-Desenvolvedor React
-
-### Tenho experiência com:
-JavaScript, HTML5, CSS3, TypeScript, React, NextJS, TailwindCSS
-### Tenhos boas noções de:
-NodeJS, Express, TypeORM, SQL, MySQL
-### Estou aprendendo
-React Native, Testes com JEST, MongoDB
-
+<img src="https://ik.imagekit.io/lrjseyuxi3m/git-profile-min_Qt_mthN-LvLU.png?updatedAt=1632232040293"/>
+<br/>
+<a href="https://patrickrios.github.io/static/media/Patrick-Fernandes-Rios-Curriculo-08-2021.7ac23cb6.pdf">check my cv</a>
 <br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickrios)](https://github.com/anuraghazra/github-readme-stats)
