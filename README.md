@@ -7,7 +7,7 @@ innovation and good development practices.
 | Resource | Link |
 | ------ | ------ |
 | Portfolio page   | <a href="https://patrickrios.github.io/" target="_blank">https://patrickrios.github.io/</a> |
-| Resume (english) | <a hhref="https://patrickrios.github.io/files/patrick_rios_developer_resume.pdf" target="_blank">patrick_rios_developer_resume.pdf</a> |
+| Resume (english) | <a hhref="https://patrickrios.github.io/files/patrick_rios_developer_resume.pdf">patrick_rios_developer_resume.pdf</a> |
 | CV (português)   | <a href="https://patrickrios.github.io/files/patrick_rios_desenvolvedor_cv.pdf">patrick_rios_desenvolvedor_cv.pdf</a> |
 
 </br>
