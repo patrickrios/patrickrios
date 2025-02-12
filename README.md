@@ -1,14 +1,23 @@
-<img src="https://ik.imagekit.io/lrjseyuxi3m/git-profile-min_Qt_mthN-LvLU.png?updatedAt=1632232040293"/>
-<a href="https://patrickrios.github.io/static/media/Patrick-Fernandes-Rios-Curriculo-08-2021.7ac23cb6.pdf">check my cv</a>
-<br/>
+# Hi there
+I am a software developer based in Dourados, MS, Brazil. Developer with over three years' professional experience in two
+companies. Passionate about technology and always looking to
+improve my knowledge. I have personal projects that explore
+innovation and good development practices.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickrios)](https://github.com/anuraghazra/github-readme-stats)
+| Resource | Link |
+| ------ | ------ |
+| Portfolio page   | <a href="https://patrickrios.github.io/" target="_blank">https://patrickrios.github.io/</a> |
+| Resume (english) | <a hhref="https://patrickrios.github.io/files/patrick_rios_developer_resume.pdf" target="_blank">patrick_rios_developer_resume.pdf</a> |
+| CV (português)   | <a href="https://patrickrios.github.io/files/patrick_rios_desenvolvedor_cv.pdf">patrick_rios_desenvolvedor_cv.pdf</a> |
+
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrios&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+## Skills
+Web development, UI/UX Design, Design Systems, Graphic Design, Prototyping, Wireframing
 
-**Get in touch**
-<br/>
+## Get in touch
 Linkedin: <a href="https://www.linkedin.com/in/patrickriosf/">https://www.linkedin.com/in/patrickriosf/</a>
 <br/>
 Email: <a href="mailto:patrick.33.rios@hotmail.com">patrick.33.rios@hotmail.com</a>
