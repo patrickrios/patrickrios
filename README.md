@@ -10,10 +10,6 @@ innovation and good development practices.
 | Resume (english) | <a href="https://patrickrios.github.io/files/patrick_rios_developer_resume.pdf" target="_blank">patrick_rios_developer_resume.pdf</a> |
 | CV (português)   | <a href="https://patrickrios.github.io/files/patrick_rios_desenvolvedor_cv.pdf" target="_blank">patrick_rios_desenvolvedor_cv.pdf</a> |
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrios&layout=compact&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills
 Web development, UI/UX Design, Design Systems, Graphic Design, Prototyping, Wireframing
 
