@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 I am a software developer based in Dourados, MS, Brazil. Developer with over three years' professional experience in two
 companies. Passionate about technology and always looking to
 improve my knowledge. I have personal projects that explore
